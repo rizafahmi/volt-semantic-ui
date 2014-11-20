@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'volt/semanticui/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "volt-semanticui"
+  spec.name          = "volt-semantic-ui"
   spec.version       = Volt::Semanticui::VERSION
   spec.authors       = ["Riza Fahmi"]
   spec.email         = ["rizafahmi@gmail.com"]
