@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Volt::Semanticui::VERSION
   spec.authors       = ["Riza Fahmi"]
   spec.email         = ["rizafahmi@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Semantic UI for the volt framework}
+  spec.description   = %q{Semantic UI for the volt framework. Check the semantic-ui.com to get more detail}
   spec.homepage      = ""
   spec.license       = "MIT"
 
